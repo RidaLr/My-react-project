@@ -1,9 +1,8 @@
 import React, { Component} from 'react';
 
-class Aboutme extends Componenet{
+class Aboutme extends Component{
   render(){
     return{
-      <h1>About me page</h1>
     }
   }
 
